@@ -26,15 +26,6 @@ Pasos:
 > Proyectos 2019
 
 
-A2 (https://github.com/januszewskimar/januszewskimar.github.io) -> (https://januszewskimar.github.io/
-
-A2 (https://github.com/jomaenfe/DIU)https://jomaenfe.github.io/DIU/la_madraza/default/
-
-
-
-
-> Previos 2018
-
-https://angelrobp.github.io 
+A2  ->  https://belindagh.github.io/proyectoDIU/
 
 
